@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Freelance Web Dev and Network Engineering<br>🌱 I’m currently learning  courses Fullstack Develepor By KelasFullstack Codepolitan<br>📫 How to reach me prayudo27@gmail.com
+🔭 I’m currently working on Freelance Web Dev and Network Engineering<br>🌱 I’m currently learning  courses Fullstack Developer By KelasFullstack Codepolitan<br>📫 How to reach me prayudo27@gmail.com
 
 
 ## 🌐 Socials:
